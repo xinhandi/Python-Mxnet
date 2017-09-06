@@ -3,7 +3,7 @@
 # file Asphere.py
 # brief Asphere from <SphereFace:Deep Hypersphere Embedding for Face Recognition 2017CVPR>
 # author deepearthgo
-# it's based on [https://github.com/wy1iu/sphereface],[https://github.com/luoyetx/mx-lsoftmax],[only add two lines]
+# it's based on [https://github.com/wy1iu/sphereface],[https://github.com/luoyetx/mx-lsoftmax],[only add two lines,]
  
 
 import os
